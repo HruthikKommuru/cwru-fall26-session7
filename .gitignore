@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.log
+tools.py
+lab_tools.py
+output/*
+!output/verification.json
