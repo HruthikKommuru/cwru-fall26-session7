@@ -3,7 +3,6 @@
 __pycache__/
 .ipynb_checkpoints/
 *.log
+output/
 tools.py
 lab_tools.py
-output/*
-!output/verification.json
